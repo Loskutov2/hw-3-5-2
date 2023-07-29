@@ -6,7 +6,7 @@
   "source": "src/index.html",
   "scripts": {
     "start": "parcel",
-    "build": "parcel build public-url /hw-3-5-2/"
+    "build": "parcel build --public-url /hw-3-5-2/"
   },
   "repository": {
     "type": "git",
